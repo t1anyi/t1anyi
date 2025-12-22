@@ -2,6 +2,10 @@
 
 I'm James, a student at the University of Delaware, studying computer science
 
+---
+
+
+
 <!--
 **T1anyi/T1anyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
